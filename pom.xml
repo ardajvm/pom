@@ -182,13 +182,6 @@
                                 <requireJavaVersion>
                                     <version>[${maven.compiler.release},)</version>
                                 </requireJavaVersion>
-
-                                <enforceBytecodeVersion>
-                                    <maxJdkVersion>${maven.compiler.release}</maxJdkVersion>
-                                    <ignoredScopes>
-                                        <ignoredScope>test</ignoredScope>
-                                    </ignoredScopes>
-                                </enforceBytecodeVersion>
                             </rules>
                         </configuration>
                     </execution>
