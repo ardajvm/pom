@@ -1,1 +1,0 @@
-## Parent pom of my projects.
