@@ -1,2 +1,2 @@
 _extends: .github
-tag-template: jenkins-$NEXT_MINOR_VERSION
+tag-template: $NEXT_MINOR_VERSION
