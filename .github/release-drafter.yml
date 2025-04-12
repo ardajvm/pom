@@ -1,4 +1,2 @@
-template: |
-  ## What’s Changed
-
-  $CHANGES
+_extends: .github
+tag-template: jenkins-$NEXT_MINOR_VERSION
